@@ -1,0 +1,34 @@
+.notification_error{
+    position:absolute;
+    border:0px solid gray;
+    float:right;
+}
+.upper_line_error{
+    height:4px;
+    background-color:red;
+}
+.upper_line_notice{
+    height:4px;
+    background-color:orange;
+}
+.upper_line_sucess{
+    height:4px;
+    background-color:green;
+}
+.title{
+    padding:3px;
+}
+.title_text{
+    font-family: arial,sans-serif;
+    font-weight: 900;
+    color: #353535;
+}
+.message{
+}
+.message_text{
+    padding:3px 5px;
+    font-family: arial,sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #353535;
+}
